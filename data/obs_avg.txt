@@ -1,4 +1,4 @@
- Here are the averages for each of the 12 conditions:
+ Here are the RH averages for each of the 12 conditions:
    65.044502      : for u > 0 over the full year,
    72.185692      : for u < 0 over the full year,
    64.467148      : for u > 2 over the full year,

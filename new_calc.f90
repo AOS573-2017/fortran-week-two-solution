@@ -94,7 +94,7 @@ ugt2q3avg = SUM(rhmat(726:1089), MASK=ugt2q3) / COUNT(ugt2q3)
 ult2q3avg = SUM(rhmat(726:1089), MASK=ult2q3) / COUNT(ult2q3)
 
 OPEN(UNIT=30, FILE='data/obs_avg.txt', ACTION='write')
-WRITE(30, *) "Here are the averages for each of the 12 conditions:"
+WRITE(30, *) "Here are the RH averages for each of the 12 conditions:"
 WRITE(30, *) ugt0allavg, " : for u > 0 over the full year,"
 WRITE(30, *) ult0allavg, " : for u < 0 over the full year,"
 WRITE(30, *) ugt2allavg, " : for u > 2 over the full year,"
