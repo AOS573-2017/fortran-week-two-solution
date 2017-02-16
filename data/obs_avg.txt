@@ -1,0 +1,13 @@
+ Here are the averages for each of the 12 conditions:
+   65.044502      : for u > 0 over the full year,
+   72.185692      : for u < 0 over the full year,
+   64.467148      : for u > 2 over the full year,
+   72.180733      : for u < 2 over the full year,
+   65.663048      : for u > 0 over the first quarter,
+   77.977409      : for u < 0 over the first quarter,
+   65.165085      : for u > 2 over the first quarter,
+   75.426361      : for u < 2 over the first quarter,
+   67.673691      : for u > 0 over the third quarter,
+   71.647064      : for u < 0 over the third quarter,
+   67.486389      : for u > 2 over the third quarter,
+   72.177628      : for u < 2 over the third quarter.
